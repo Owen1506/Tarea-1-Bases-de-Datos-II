@@ -518,6 +518,6 @@ Los archivos `.env` y `node_modules` son excluidos del repositorio mediante `.gi
 Enlace al video:
 
 ```text
-Aun no.
+https://www.youtube.com/watch?v=5S7F2jyMsb4
 ```
 
